@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://sofab-mali.github.io/</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sofab-mali.github.io/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sofab-mali.github.io/en/"/>
+  </url>
+  <url>
+    <loc>https://sofab-mali.github.io/en/</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sofab-mali.github.io/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sofab-mali.github.io/en/"/>
+  </url>
+  <url>
+    <loc>https://sofab-mali.github.io/mentions-legales.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sofab-mali.github.io/mentions-legales.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sofab-mali.github.io/en/legal.html"/>
+  </url>
+  <url>
+    <loc>https://sofab-mali.github.io/en/legal.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://sofab-mali.github.io/mentions-legales.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sofab-mali.github.io/en/legal.html"/>
+  </url>
+</urlset>
